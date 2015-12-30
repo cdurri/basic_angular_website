@@ -1,4 +1,14 @@
-<div>
-<h1>Contact Page</h1>
-
+<h2>Contact</h2>
+<p>Please email support@computersolutions.code</p>
+<h3>Locations</h3>
+<div ng-repeat="location in locations">
+  <ul class="location">
+    <li>{{ location.name }}</li>
+    <li>{{ location.street_address }}</li>
+    <li>{{ location.city }}</li>
+    <li>{{ location.state }}</li>
+    <li>{{ location.zip }}</li>
+    <li>{{ location.phone }}</li>
+  </ul>
 </div>
+     

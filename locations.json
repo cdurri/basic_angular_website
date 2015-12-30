@@ -1,0 +1,29 @@
+[
+  {
+   "id": 1,
+   "name": "Stephans Green Location",
+   "street_address": "25 Stephans Green",
+   "city": "Dublin",
+   "state": "Ireland",
+   "zip": "Dublin 2",
+   "phone": "781-555-5555"
+  },
+  {
+   "id": 2,
+   "name": "Dun Laoghaire Location",
+   "street_address": "14 Dun Laoghaire",
+   "city": "Dublin",
+   "state": "Ireland",
+   "zip": "Dublin 18",
+   "phone": "781-555-5556"
+  },
+  {
+   "id": 3,
+   "name": "Baggot Street Location",
+   "street_address": "125 Baggot Street",
+   "city": "Dublin",
+   "state": "Ireland",
+   "zip": "Dublin 2",
+   "phone": "781-555-5557"
+  }
+]

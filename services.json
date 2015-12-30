@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware Repair",
+    "description": "Praesent condimentum consectetur pharetra. Nunc lacinia porttitor purus in lacinia. Vestibulum vel vestibulum odio, vitae vestibulum tellus. Pellentesque at orci molestie, bibendum risus vel, ornare nisl. Sed auctor justo ac finibus viverra. Aenean mollis eget risus eu fringilla. Etiam nec ex molestie, venenatis est ac, pellentesque eros. Suspendisse vitae elementum neque. Aliquam a tempor orci, vel lacinia purus. Suspendisse at neque feugiat, pharetra risus sed, laoreet elit. Sed vel aliquet magna. Sed commodo bibendum libero non euismod. Etiam sit amet diam non orci tempus egestas a in mi. Fusce bibendum purus vel interdum blandit. Quisque fermentum nunc ut mi vulputate, at facilisis mi tristique. Nulla facilisi.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description": "Praesent condimentum consectetur pharetra. Nunc lacinia porttitor purus in lacinia. Vestibulum vel vestibulum odio, vitae vestibulum tellus. Pellentesque at orci molestie, bibendum risus vel, ornare nisl. Sed auctor justo ac finibus viverra. Aenean mollis eget risus eu fringilla. Etiam nec ex molestie, venenatis est ac, pellentesque eros. Suspendisse vitae elementum neque. Aliquam a tempor orci, vel lacinia purus. Suspendisse at neque feugiat, pharetra risus sed, laoreet elit. Sed vel aliquet magna. Sed commodo bibendum libero non euismod. Etiam sit amet diam non orci tempus egestas a in mi. Fusce bibendum purus vel interdum blandit. Quisque fermentum nunc ut mi vulputate, at facilisis mi tristique. Nulla facilisi.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "System Tuneup",
+    "description": "Praesent condimentum consectetur pharetra. Nunc lacinia porttitor purus in lacinia. Vestibulum vel vestibulum odio, vitae vestibulum tellus. Pellentesque at orci molestie, bibendum risus vel, ornare nisl. Sed auctor justo ac finibus viverra. Aenean mollis eget risus eu fringilla. Etiam nec ex molestie, venenatis est ac, pellentesque eros. Suspendisse vitae elementum neque. Aliquam a tempor orci, vel lacinia purus. Suspendisse at neque feugiat, pharetra risus sed, laoreet elit. Sed vel aliquet magna. Sed commodo bibendum libero non euismod. Etiam sit amet diam non orci tempus egestas a in mi. Fusce bibendum purus vel interdum blandit. Quisque fermentum nunc ut mi vulputate, at facilisis mi tristique. Nulla facilisi.",
+    "image": "computer-icon.png"
+  }
+]
